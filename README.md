@@ -4,34 +4,37 @@
 <br />
 <div align="center">
 
-<h3 align="center">Gelladae</h3>
+<h3 align="center">Gellada</h3>
 
   <p align="center">
-    Chit chat bot
+    Chit chat bot based on llama3 + postgreSQL
   </p>
 </div>
-
+Working Gellada is here: https://t.me/helper_111bot
 
 ### Installation
 
 1. Clone the repo
    ```
-   git clone -b randv_main https://github.com/pavviaz/itmo_pdl.git
+   git clone https://github.com/jojiku/Gellada.git
    ```
-2. Place SentenceTransformer checkpoint folder into `embedder/weights` directory, and example resume and vacancies CSVs into `api/init_data` (<a href="https://disk.yandex.ru/d/lujblP9pdXRiIw">our weights and data</a>, `ce_model.zip` is model folder, `resume_train_no_index.csv` and `vac_train_no_index.csv` are for resume and vacancies data respectively). Change path for model and data in config files if needed
-3. Create `.env` file in root directory with following keys
+2. Install the required packages:
+   ```
+   cd Gellada
+   pip install -r requirements.txt
+   ```
+3. Rename example_env.txt to `.env` file in root directory and change only telegram token:
     ```
-    DB_NAME=<EXAMPLE_DB_NAME>
-    DB_USER=<EXAMPLE_DB_USER>
-    DB_PASSWORD=<EXAMPLE_DB_PASSWD>
-    DB_HOST=<EXAMPLE_DB_HOST>
-    DB_PORT=5044
-
-    EMBEDDER_URL=http://embedder:5043
-    ``` 
-4. Build & run containers
+    TELEGRAM_TOKEN "YOUR_TOKEN"
+    ```
+    Change telegram token in \src\utils\config.py as well:
+    ```
+    TELEGRAM_PARAMS = {
+    "telegram_token": "YOUR_TOKEN"}
+    ```
+   
+4. Run main.py:
    ```
-   sudo docker-compose build
-   sudo docker-compose up
+   python main.py
    ```
-Congratulations! Streamlit is now available at `http://localhost:8501/` and API endpoints are at `http://localhost:5041/docs`.
+ 
