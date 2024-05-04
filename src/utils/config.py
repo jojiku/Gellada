@@ -6,5 +6,5 @@ DB_PARAMS = {
     "host": "localhost"
 }  
 TELEGRAM_PARAMS = {
-    "telegram_token": "6678699738:AAHbjtg1H-6WmryRBtiWFFGWpKje-IhdIH4" 
+    "telegram_token": "" 
 }
