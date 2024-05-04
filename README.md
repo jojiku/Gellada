@@ -37,4 +37,4 @@ Working Gellada is here: https://t.me/helper_111bot
    ```
    python main.py
    ```
- 
+ Docker-compose and docker dont really work, use only the above sequence
