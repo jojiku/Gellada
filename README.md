@@ -1,18 +1,13 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<div align="right">
-  <img src="https://github.com/jojiku/Gellada/assets/56271473/1e8caa6b-5cff-493d-b195-af3f6ce7b53f" alt="Project Logo" style="float: right; margin-left: 20px;">
-</div>
-
-<br />
-
-<div align="center">
+<!-- PROJECT LOGO and HEADER -->
+<div style="overflow: hidden;">
+  <img src="https://github.com/jojiku/Gellada/assets/56271473/1118b912-4a4c-4a3a-9869-930eb459ccd2" alt="Project Logo" style="float: right; margin-left: 20px; margin-bottom: 10px;">
   <h3 align="center">Gellada</h3>
   <p align="center">
     Chit chat bot based on llama3 + postgreSQL
   </p>
-</div>
+</div> 
 
 
 
