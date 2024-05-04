@@ -1,2 +1,0 @@
-# Gellada
-Chit chat friend 
