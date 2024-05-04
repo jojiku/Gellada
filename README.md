@@ -1,6 +1,8 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
+![image](https://github.com/jojiku/Gellada/assets/56271473/89777b72-ccbc-4df8-9db2-44ffb8db1c15)
+
 <br />
 <div align="center">
 
