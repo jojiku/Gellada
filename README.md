@@ -1,7 +1,8 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
- ![image](https://github.com/jojiku/Gellada/assets/56271473/a38fed50-3853-4a7b-ab84-66f8f211b961)
+![image](https://github.com/jojiku/Gellada/assets/56271473/1e8caa6b-5cff-493d-b195-af3f6ce7b53f)
+
 
 
 
