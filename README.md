@@ -1,15 +1,15 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
- 
+ ![image](https://github.com/jojiku/Gellada/assets/56271473/a38fed50-3853-4a7b-ab84-66f8f211b961)
+
 
 
 <br />
 <div align="center">
 
 <h3 align="center">Gellada</h3>
-![image](https://github.com/jojiku/Gellada/assets/56271473/169c9f70-2485-49c2-9cb3-c0a40334d8aa)
-  <p align="center">
+   <p align="center">
     Chit chat bot based on llama3 + postgreSQL
   </p>
 </div>
