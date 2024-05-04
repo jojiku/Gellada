@@ -1,19 +1,21 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-![image](https://github.com/jojiku/Gellada/assets/56271473/1e8caa6b-5cff-493d-b195-af3f6ce7b53f)
-
-
-
+<div align="right">
+  <img src="https://github.com/jojiku/Gellada/assets/56271473/1e8caa6b-5cff-493d-b195-af3f6ce7b53f" alt="Project Logo" style="float: right; margin-left: 20px;">
+</div>
 
 <br />
-<div align="center">
 
-<h3 align="center">Gellada</h3>
-   <p align="center">
+<div align="center">
+  <h3 align="center">Gellada</h3>
+  <p align="center">
     Chit chat bot based on llama3 + postgreSQL
   </p>
 </div>
+
+
+
 Working Gellada is here: https://t.me/helper_111bot
 
 ### Installation
