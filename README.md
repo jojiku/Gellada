@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO and HEADER -->
 <div style="overflow: hidden;">
-  <img src="https://github.com/jojiku/Gellada/assets/56271473/f7ed681a-5302-4bd1-a567-3a23687c9745" alt="Project Logo" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 100px; height: auto;">
+  <img src="https://github.com/jojiku/Gellada/assets/56271473/f7ed681a-5302-4bd1-a567-3a23687c9745" alt="Project Logo" style="float: right; margin-right: 0px; margin-left: 20px; margin-bottom: 10px; width: 100px; height: 100;">
   <h1 align="center"> 🦊 Gellada </h1>
   <p align="center">
   ⚡ Chit chat bot based on llama3 + postgreSQL ⚡
