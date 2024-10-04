@@ -37,5 +37,4 @@ Working Gellada is here: https://t.me/helper_111bot
    ```
    python main.py
    ```
-Docker-compose and docker dont really work, use only the above sequence
-Also, there are some files which werent used (like google maps etc.), plan is to create a multitool agent who can plot a route to nearest attraction to the user (its in the progress 😅)
+
