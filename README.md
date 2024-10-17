@@ -4,13 +4,11 @@
 <div style="overflow: hidden;">
   <h1 align="center"> 🦊 Gellada </h1>
   <p align="center">
-  ⚡ Chit chat bot based on llama3 + postgreSQL ⚡
+  ⚡ Create your own Chit chat bot based on llama3 + postgreSQL ⚡
   </p>
 </div>
  
 
-
-Working Gellada is here: https://t.me/helper_111bot
 
 ### Installation
 
